@@ -18,3 +18,6 @@ Like my works and want to support me?
   
 
 
+# Note from Fozhan 
+I have made some changes to the template so that it would serve as the primary website for the AI Research Club at CSULB. 
+
